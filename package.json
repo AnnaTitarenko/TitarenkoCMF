@@ -1,0 +1,20 @@
+{
+  "name": "Anna.Titarenko.ru",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "gulp run"
+  },
+  "author": "Witalij Kaa",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-util": "^3.0.7",
+    "gulp-concat": "^2.6.1",
+    "gulp-css-url-mktime": "^0.0.2",
+    "gulp-sftp": "^0.1.5",
+    "nib": "^1.1.2",
+    "stylus": "^0.54.5"
+  }
+}
